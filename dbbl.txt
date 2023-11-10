@@ -1,3 +1,3 @@
 ## Database blocklist
 
-||github.com^
+||youtube.com^
